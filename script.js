@@ -113,13 +113,13 @@ let tiempohora= kilómetros/velocidad
 let tiempominutos=tiempohora*60
 console.log(tiempominutos)*/
 
-//BONUS 3
+/*/BONUS 3
 let bruto= parseFloat (prompt ("Ingrese el monto del sueldo bruto"))
 let obrasocial=(bruto*3)/100
 let jubilación=(bruto*11)/100
 let ley19032=(bruto*3)/100
 let neto= bruto-obrasocial-jubilación-ley19032
-alert ( "Su sueldo bruto es de  " + neto)
+alert ( "Su sueldo bruto es de  " + neto)*/
 
 
 
